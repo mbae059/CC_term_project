@@ -1,0 +1,4 @@
+FROM mbae059/cc_group_backend:latest
+
+# Expose port 8000 for the Django development server
+EXPOSE 8000
