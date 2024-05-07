@@ -10,7 +10,7 @@ docker-compose up
 
 check
 
-[our website for the term project](localhost:3000)
-[django backend](localhost:8000)
+(our website for the term project)[localhost:3000]
+(django backend)[localhost:8000]
 
 Check code or ask mbae059 for code explanation
