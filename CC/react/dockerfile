@@ -1,4 +1,0 @@
-FROM mbae059/cc_group_frontend:v1
-
-# Expose port 3000 for the react development server
-EXPOSE 3000
