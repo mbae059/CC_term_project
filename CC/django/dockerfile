@@ -1,0 +1,8 @@
+FROM mbae059/cc_group_backend:latest
+
+WORKDIR /home
+
+# Expose port 8000 for the Django development server
+EXPOSE 8000
+
+ENTRYPOINT [ "/usr/local/bin/entrypoint.sh" ]

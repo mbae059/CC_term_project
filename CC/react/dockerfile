@@ -1,0 +1,7 @@
+FROM mbae059/cc_group_frontend:latest
+
+WORKDIR /root/voca
+# Expose port 3000 for the react development server
+EXPOSE 3000
+
+CMD ["npm", "start"]
