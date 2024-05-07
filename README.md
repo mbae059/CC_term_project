@@ -8,8 +8,9 @@ Use the command
 docker-compose up
 ```
 
-It will setup reactjs, django and mysql
+check
 
-This is not complete yet.
+[our website for the term project](localhost:3000)
+[django backend](localhost:8000)
 
-Not sure if they are connected by port yet.
+Check code or ask mbae059 for code explanation
