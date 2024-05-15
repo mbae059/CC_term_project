@@ -28,4 +28,4 @@ django debug page is enough when checking django backend, which is localhost:800
 1. The image needs to have 2 words
 2. Those 2 words needs to be English and Korean (order matters!)
 
-[example image]
+[example image](https://github.com/mbae059/CC_term_project/blob/master/ocr_example.png)
