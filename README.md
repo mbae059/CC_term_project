@@ -29,3 +29,7 @@ django debug page is enough when checking django backend, which is localhost:800
 2. Those 2 words needs to be English and Korean (order matters!)
 
 [example image](https://raw.githubusercontent.com/mbae059/CC_term_project/master/ocr_example.png)
+
+
+# [Link for backend code](https://github.com/mbae059/CC_term_project_backend)
+# [Link for frontend code](https://github.com/mbae059/CC_term_project_frontend)
