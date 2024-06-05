@@ -1,4 +1,4 @@
-FROM jis4969/cc-frontend-ocr:first
+FROM jis4969/cc-frontend-ocr:latest
 
 WORKDIR /root/voca
 # Expose port 3000 for the react development server
