@@ -1,4 +1,6 @@
 # 이미지 텍스트 추출 영단어장 웹서비스
+**PNU CC Team16**
+
 장인성: Frontend(Google OCR API)
 
 배민준: Frontend(React),Backend,Docker
@@ -9,6 +11,7 @@
 
 
 ## 프로젝트 소개
+
 Google Cloud OCR API를 활용한 영어 단어장 웹서비스 입니다. 
 
 타이핑 및 이미지 업로드를 통해 DB에 단어를 추가하고 설정한 일정에 맞춰 단어 학습을 할 수 있습니다. 
@@ -50,6 +53,7 @@ https://www.classcard.net/
 
 **구성도**
 
+![diagram](https://github.com/DohunKim99/CC_term_project/blob/patch-1/diagram.png)
 
 ## How To Use
 2024 PNU cloud computing term project (3 tier architecture using docker, google cloud vision OCR, CSP)
