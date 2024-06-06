@@ -51,7 +51,13 @@ https://www.classcard.net/
 ## 프로젝트 개발 결과물
 
 **메인 화면**
+
 ![main](UI_1.png)
+---
+**단어장 UI**
+
+![word_list](UI_2.png)
+---
 
 **구성도**
 
