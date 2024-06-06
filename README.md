@@ -50,6 +50,8 @@ https://www.classcard.net/
 
 ## 프로젝트 개발 결과물
 
+**메인 화면**
+![main](UI_1.png)
 
 **구성도**
 
